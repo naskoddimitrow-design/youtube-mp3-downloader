@@ -27,10 +27,3 @@ Download YouTube videos as MP3 easily, with **automatic updates**!
 - Clicking **Yes** downloads the new EXE and restarts the app automatically  
 
 > ⚠️ Updates only work if running the EXE version. `.py` files in development mode will skip updates.
-
-## Installation / Building EXE
-
-1. Install Python 3.10+  
-2. Install dependencies:
-   ```bash
-   pip install yt-dlp customtkinter requests
